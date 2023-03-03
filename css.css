@@ -1,0 +1,23 @@
+body {
+    background-image: url("./wallpaperflare.com_wallpaper.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.card {
+    background-color: #333;
+    color: white;
+    font-weight: bold;
+    opacity: .5;
+}
+
+i {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.none {
+    display: none;
+}
+
